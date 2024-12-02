@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aterseo.osoul.pl/aterseo.txt
